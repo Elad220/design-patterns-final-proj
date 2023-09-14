@@ -3,6 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea
+quiz1.data
 ### Eclipse ###
 .apt_generated
 .classpath
